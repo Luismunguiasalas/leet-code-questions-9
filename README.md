@@ -12,3 +12,6 @@
 1399 Count Largest Group
 1619 Mean of Array After Removing Some Elements
 1550 Three consecutive Odds
+1078 Occurrences After Bigram
+705 Design HashSet
+1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence
