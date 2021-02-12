@@ -8,3 +8,5 @@
 500 Keyboard Row
 1413 Minimum Value to Get Positive Step by Step Sum
 806 Number of Lines To Write String
+496 Next Greater Element I
+1399 Count Largest Group
