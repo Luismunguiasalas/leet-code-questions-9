@@ -11,3 +11,4 @@
 496 Next Greater Element I
 1399 Count Largest Group
 1619 Mean of Array After Removing Some Elements
+1550 Three consecutive Odds
