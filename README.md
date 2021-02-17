@@ -18,3 +18,5 @@
 1582 Special Positions in a Binary Matrix
 762 Prime Number of Set Bits in Binary Representation
 1598 Crawler Log Folder
+884 uncommon words from two sentences
+412 Fizz Buzz
