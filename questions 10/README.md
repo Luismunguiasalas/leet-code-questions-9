@@ -9,3 +9,4 @@ problems and my solutions
 1608 Special Array With X Elements Greater Than or Equal X
 1185 Day of the Week
 1009 complement of base 10 integer
+868 Binary Gap
