@@ -10,3 +10,5 @@ problems and my solutions
 1185 Day of the Week
 1009 complement of base 10 integer
 868 Binary Gap
+1287 Element appearing more than 25% in sorted array
+1446 Consecutive Characters
