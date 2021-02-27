@@ -17,3 +17,4 @@ problems and my solutions
 169 Majority Element
 1640 Check Array Formation Through Concatenation
 693 Binary Number with Alternating Bits
+1758 Minimum Changes To Make Alternating Binary String
