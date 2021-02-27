@@ -16,3 +16,4 @@ problems and my solutions
 1507 Reformat Date
 169 Majority Element
 1640 Check Array Formation Through Concatenation
+693 Binary Number with Alternating Bits
