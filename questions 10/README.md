@@ -14,3 +14,5 @@ problems and my solutions
 1446 Consecutive Characters
 1518 Water Bottles
 1507 Reformat Date
+169 Majority Element
+1640 Check Array Formation Through Concatenation
