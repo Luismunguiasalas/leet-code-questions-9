@@ -20,3 +20,4 @@ problems and my solutions
 1758 Minimum Changes To Make Alternating Binary String
 1629 slowest key
 812 largest triangle area
+1624Largest Substring Between Two Equal Characters
