@@ -18,3 +18,5 @@ problems and my solutions
 1640 Check Array Formation Through Concatenation
 693 Binary Number with Alternating Bits
 1758 Minimum Changes To Make Alternating Binary String
+1629 slowest key
+812 largest triangle area
