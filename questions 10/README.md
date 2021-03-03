@@ -22,3 +22,4 @@ problems and my solutions
 812 largest triangle area
 1624 Largest Substring Between Two Equal Characters
 917 Reverse Only Letters
+690 Employee Importance
