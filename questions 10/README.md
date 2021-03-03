@@ -23,3 +23,4 @@ problems and my solutions
 1624 Largest Substring Between Two Equal Characters
 917 Reverse Only Letters
 690 Employee Importance
+242 Valid Anagram
