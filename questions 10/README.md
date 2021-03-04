@@ -28,3 +28,4 @@ problems and my solutions
 234 Palindrome Linked List
 876 Middle of the Linked List
 203 Remove Linked List Elements
+160 Intersection of Two Linked Lists
