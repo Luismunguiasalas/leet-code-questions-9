@@ -25,3 +25,5 @@ problems and my solutions
 690 Employee Importance
 242 Valid Anagram
 141 Linked List Cycle
+234 Palindrome Linked List
+876 Middle of the Linked List
