@@ -33,3 +33,4 @@ problems and my solutions
 1669 Merge In Between Linked Lists
 986 Interval List Intersections
 1721 Swapping Nodes in a Linked List
+1019 Next Greater Node In Linked List
