@@ -42,3 +42,4 @@ problems and my solutions
 258 Add Digits
 896 Monotonic Array
 389 Find the Difference
+696 Count Binary Substrings
