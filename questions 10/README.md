@@ -40,3 +40,4 @@ problems and my solutions
 122 Best Time to Buy and Sell Stock II
 283 Move Zeroes
 258 Add Digits
+896 Monotonic Array
