@@ -36,3 +36,4 @@ problems and my solutions
 1019 Next Greater Node In Linked List
 328 Odd Even Linked List
 430 Flatten a Multilevel Doubly Linked List
+341 Flatten Nested List Iterator
