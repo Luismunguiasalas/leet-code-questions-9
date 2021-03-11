@@ -47,3 +47,7 @@ problems and my solutions
 1544 Make The String Great
 1496 Path Crossing
 1417 Reformat The String
+118 Pascal's Triangle
+1539 Kth Missing Positive Number
+530 Minimum Absolute Difference in BST
+1523 Count Odd Numbers in an Interval Range
