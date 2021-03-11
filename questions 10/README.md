@@ -45,3 +45,4 @@ problems and my solutions
 696 Count Binary Substrings
 748 Shortest Completing Word
 1544 Make The String Great
+1496 Path Crossing
