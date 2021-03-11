@@ -46,3 +46,4 @@ problems and my solutions
 748 Shortest Completing Word
 1544 Make The String Great
 1496 Path Crossing
+1417 Reformat The String
