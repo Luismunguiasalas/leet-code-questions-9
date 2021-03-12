@@ -53,3 +53,5 @@ problems and my solutions
 1523 Count Odd Numbers in an Interval Range
 937 Reorder Data in Log Files
 100 Same Tree
+217 Contains Duplicate
+1137 N-th Tribonacci Number
