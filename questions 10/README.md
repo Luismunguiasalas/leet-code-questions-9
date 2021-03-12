@@ -1,10 +1,10 @@
 leet-code-questions-10
 problems and my solutions
 
-#1046. Last Stone Weight
-#1047. Distribute Candies
-#867. Transpose Matrix
-#1260. Shift 2D Grid
+<!-- #1046. Last Stone Weight -->
+<!-- #1047. Distribute Candies -->
+<!-- #867. Transpose Matrix -->
+<!-- #1260. Shift 2D Grid
 #1189. Maximum Number of Balloons
 #1608. Special Array With X El
 Greater Than or Equal X
@@ -57,4 +57,4 @@ Greater Than or Equal X
 #217. Contains Duplicate
 #1137. N-th Tribonacci Number
 #448. Find All Numbers Disappeared in an Array
-#13. Roman to Integer
+#13. Roman to Integer -->
