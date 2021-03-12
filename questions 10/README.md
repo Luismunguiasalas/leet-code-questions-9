@@ -114,3 +114,5 @@ problems and my solutions
 # 13. Roman to Integer
 
 # 653. Two Sum IV - Input is a BST
+
+# 1556. Thousand Separator
