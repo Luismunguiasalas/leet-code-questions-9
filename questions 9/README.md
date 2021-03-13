@@ -1,4 +1,5 @@
-My solutions to leetcode problems
+My solutions to leetcode problems.
+ 
 list of problems below:
 
 # 1694 Reformat Phone Number
