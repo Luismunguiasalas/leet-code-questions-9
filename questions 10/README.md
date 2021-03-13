@@ -1,5 +1,6 @@
-leet-code-questions-10
-problems and my solutions
+My solutions to leetcode problems.
+
+List of problems below.
 
 # 1046. Last Stone Weight
 
