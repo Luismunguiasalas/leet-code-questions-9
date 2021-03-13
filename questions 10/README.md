@@ -116,3 +116,5 @@ problems and my solutions
 # 653. Two Sum IV - Input is a BST
 
 # 1556. Thousand Separator
+
+# 704. Binary Search
