@@ -123,3 +123,5 @@ List of problems below.
 # 1184 Distance Between Bus Stops
 
 # 191 Number of 1 Bits
+
+# 520. Detect Capital
