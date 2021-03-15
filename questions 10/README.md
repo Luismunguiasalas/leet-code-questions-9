@@ -125,3 +125,7 @@ List of problems below.
 # 191 Number of 1 Bits
 
 # 520. Detect Capital
+
+# 783. Minimum Distance Between BST Nodes
+
+# 387. First Unique Character in a String
