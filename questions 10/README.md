@@ -129,3 +129,7 @@ List of problems below.
 # 783. Minimum Distance Between BST Nodes
 
 # 387. First Unique Character in a String
+
+# 232. Implement Queue using Stacks
+
+# 119. Pascal's Triangle II
