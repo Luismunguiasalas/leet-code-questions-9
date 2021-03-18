@@ -133,3 +133,7 @@ List of problems below.
 # 232. Implement Queue using Stacks
 
 # 119. Pascal's Triangle II
+
+# 1005. Maximize Sum Of Array After K Negations
+
+# 1275. Find Winner on a Tic Tac Toe Game
